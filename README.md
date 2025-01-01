@@ -21,5 +21,6 @@ Run the following command to execute the code
 java -cp "./lib/*;." edu.bu.tetris.Main -p 5000 -t 200 -v 100 -g 0.99 -n 1e-5
 ```
 
+# General other points:
 Once the code has been complied, adding a -h to the execution code without any other flags will show the flags available and what they do.
 Points are earned for cleared lines, perfect clears, a tetris, and t-spins.
